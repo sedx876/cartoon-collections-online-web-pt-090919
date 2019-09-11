@@ -3,7 +3,7 @@
 
 #def summon_captain_planet# code an argument here
  ["earth", "wind", "fire", "water", "heart"].collect { |word| puts word.capitalize + "!" }
-end
+
 
 #def long_planeteer_calls# code an argument here
   ["puff", "go", "two"].any? { |word| puts word.length < 4 }
