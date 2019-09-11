@@ -7,6 +7,7 @@
 
 #def long_planeteer_calls# code an argument here
   ["puff", "go", "two"].any? { |word| puts word.length < 4 }
+end
 
 #def find_the_cheese# code an argument here
   def get_the_cheese(arr)
